@@ -46,7 +46,7 @@ Code authors should incorporate these tools into their projects where at all pos
 
 The preferred method for submitting code for review is via a new issue. Templates can be provided to aid the prospective reviewer and ensure sufficient information is provided.
 
-Details relating to the issue template can be found in the [Issues and Tickets SOP](Issues-and-Tickets-SOP).
+Details relating to the issue template can be found in the [Issues and Tickets SOP](Issues-and-Tickets-SOP.md).
 
 ### Allocations
 
@@ -114,7 +114,7 @@ An alternate method of leaving feedback is to list comments in a separate docume
 ...
 ```
 
-If a bug or unexpected behaviour is found, an issue should also be created, as discussed in the [Issues and Tickets SOP](Issues-and-Tickets-SOP).
+If a bug or unexpected behaviour is found, an issue should also be created, as discussed in the [Issues and Tickets SOP](Issues-and-Tickets-SOP.md).
 
 #### Good Feedback
 
